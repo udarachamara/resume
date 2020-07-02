@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efa02a85.chunk.css",
+    "main.js": "/static/js/main.f31de998.chunk.js",
+    "main.js.map": "/static/js/main.f31de998.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48fe03d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48fe03d4.js.map",
+    "static/css/2.4170ddd3.chunk.css": "/static/css/2.4170ddd3.chunk.css",
+    "static/js/2.60edcad2.chunk.js": "/static/js/2.60edcad2.chunk.js",
+    "static/js/2.60edcad2.chunk.js.map": "/static/js/2.60edcad2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0100fb7a47aec186cee63f2e7f70441.js": "/precache-manifest.b0100fb7a47aec186cee63f2e7f70441.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4170ddd3.chunk.css.map": "/static/css/2.4170ddd3.chunk.css.map",
+    "static/css/main.efa02a85.chunk.css.map": "/static/css/main.efa02a85.chunk.css.map",
+    "static/js/2.60edcad2.chunk.js.LICENSE.txt": "/static/js/2.60edcad2.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/lato-font.css": "/static/media/lato-thin.13fa4c60.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48fe03d4.js",
+    "static/css/2.4170ddd3.chunk.css",
+    "static/js/2.60edcad2.chunk.js",
+    "static/css/main.efa02a85.chunk.css",
+    "static/js/main.f31de998.chunk.js"
+  ]
+}
